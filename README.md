@@ -9,7 +9,7 @@ An end-to-end analysis of Indian startup funding trends across a decade (2015–
 ## Key Findings
 
 - Merged and cleaned two multi-year datasets (2015–2019, 2020–2025) covering 4,000+ funding rounds; audited and corrected data quality issues including a misrecorded currency entry, and consolidated 576 raw sector labels into 20 standardized categories using SQL aggregations, CTEs, and window functions.
-- Uncovered a sharp funding contraction from a peak of ~$10.4B (2017) to ~$2.8B (2025), while average deal size remained comparatively resilient (~$19–33M range post-2020) — indicating the funding winter reduced deal *volume and total capital* more than it compressed individual deal sizes.
+- Uncovered a sharp funding contraction from a peak of approx. $10.4B (2017) to approx. $2.8B (2025), while average deal size remained comparatively resilient (approx. $19–33M range post-2020) — indicating the funding winter reduced deal *volume and total capital* more than it compressed individual deal sizes.
 - Identified diverging sector trends using year-over-year window functions: SaaS (+368%) and Mobility (+209%) funding grew through the winter period, while Ecommerce (−93%) and Fintech (−56%) saw the steepest pullbacks.
 
 ## Visualizations
